@@ -18,7 +18,7 @@ while getopts ":d:i:" opt; do
 done
 
 if [[ -z "$DISK" && -z "$ISO" ]]; then
-  echo "Erreur : il faut au moins -d ou -i"
+  echo "Error : use at least -d or -i"
   usage
 fi
 
