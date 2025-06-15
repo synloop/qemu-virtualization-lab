@@ -34,8 +34,6 @@ qemu-virtualization-lab
 bash src/vm_run.sh -d lubuntu.qcow2 -i lubuntu-24.04.2-desktop-amd64.iso
 ```
 
-*(Run `bash src/vm_run.sh -h` for usage.)*
-
 ---
 
 ## Key results at a glance
