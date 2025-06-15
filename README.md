@@ -1,9 +1,11 @@
-# QEMU Virtualization Lab 🚀  
+# QEMU Virtualization Lab 🚀
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+![Made with Bash](https://img.shields.io/badge/Bash-automation-blue)
+![KVM Ready](https://img.shields.io/badge/KVM-enabled-brightgreen)
+![Cross-Arch ARM](https://img.shields.io/badge/ARM-emulated-ff69b4)
 
 Hands-on exploration of **QEMU/KVM** and system emulation:  
 benchmarking, VirtIO optimisation, QEMU Guest Agent integration, ARM (Raspberry Pi) emulation, and a one-command automation script.
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 ---
 
@@ -56,8 +58,6 @@ bash src/vm_run.sh -d lubuntu.qcow2 -i lubuntu-24.04.2-desktop-amd64.iso
 Read the detailed lab document (methodology, metrics, conclusions):
 
 **[docs/Introduction_to_QEMU.pdf](docs/Introduction_to_QEMU.pdf)**  
-
-*(Also rendered via GitHub Pages if enabled.)*
 
 ---
 
