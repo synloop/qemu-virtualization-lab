@@ -1,8 +1,8 @@
 # QEMU Virtualization Lab 🚀
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 ![Made with Bash](https://img.shields.io/badge/Bash-automation-blue)
 ![KVM Ready](https://img.shields.io/badge/KVM-enabled-brightgreen)
 ![Cross-Arch ARM](https://img.shields.io/badge/ARM-emulated-ff69b4)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 Hands-on exploration of **QEMU/KVM** and system emulation:  
 benchmarking, VirtIO optimisation, QEMU Guest Agent integration, ARM (Raspberry Pi) emulation, and a one-command automation script.
@@ -20,7 +20,7 @@ qemu-virtualization-lab
 
 | Folder | Highlight |
 |--------|-----------|
-| **docs/** | ➜ `Introduction_to_QEMU.pdf` – 20-page illustrated report |
+| **docs/** | ➜ `Introduction_to_QEMU.pdf` – full illustrated report |
 | **src/** | ➜ `vm_run.sh` – launches a KVM VM with VirtIO, Guest Agent, port-forwarding |
 | **screenshots/** | 9 curated PNGs referenced below & in the PDF |
 
