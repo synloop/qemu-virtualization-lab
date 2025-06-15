@@ -1,8 +1,0 @@
-{
-  "execute": "guest-exec",
-  "arguments": {
-    "path": "/usr/bin/touch",
-    "arg": ["/tmp/ok.txt"],
-    "capture-output": true
-  }
-}
