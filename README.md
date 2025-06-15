@@ -1,4 +1,4 @@
-# QEMU Virtualization Lab 🚀
+# QEMU Virtualization Lab
 ![Made with Bash](https://img.shields.io/badge/Bash-automation-blue)
 ![KVM Ready](https://img.shields.io/badge/KVM-enabled-brightgreen)
 ![Cross-Arch ARM](https://img.shields.io/badge/ARM-emulated-ff69b4)
