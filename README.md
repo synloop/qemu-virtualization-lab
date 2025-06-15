@@ -57,7 +57,7 @@ bash src/vm_run.sh -d lubuntu.qcow2 -i lubuntu-24.04.2-desktop-amd64.iso
 
 Read the detailed lab document (methodology, metrics, conclusions):
 
-**[docs/Introduction_to_QEMU.pdf](docs/Introduction to QEMU.pdf)**  
+**[docs/Introduction_to_QEMU.pdf](docs/Introduction_to_QEMU.pdf)**  
 
 ---
 
