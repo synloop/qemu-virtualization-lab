@@ -40,7 +40,7 @@ bash src/vm_run.sh -d lubuntu.qcow2 -i lubuntu-24.04.2-desktop-amd64.iso
 
 | Proof | Screenshot |
 |-------|------------|
-| **KVM enabled** (`vmx|svm` = 16 flags) | ![kvm_egrep](screenshots/kvm_egrep.png) |
+| **KVM enabled** (vmx|svm = 16 flags) | ![kvm_egrep](screenshots/kvm_egrep.png) |
 | **KVM modules loaded** | ![kvm_lsmod](screenshots/kvm_lsmod.png) |
 | **Raw vs qcow2 size** | ![disk_raw_vs_qcow2](screenshots/disk_raw_vs_qcow2.png) |
 | **Boot time: full emu → KVM (12 min ➜ 33 s)** | ![boot_time](screenshots/boot_time_comparison.png) |
